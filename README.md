@@ -128,4 +128,3 @@ This project is for academic and educational purposes.
 ## ⭐ Acknowledgement
 
 Developed as part of **Digital Image Processing Lab (BCSE403L)** coursework.
-## 📂 Project Structure
